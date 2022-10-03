@@ -11,4 +11,4 @@
 * Formatting Strings. 
 * Color literals.
 
- <img src= "https://user-images.githubusercontent.com/108889662/193629523-4b3422ba-0773-4bb7-9198-543824376db3.PNG" width="380" height="720">
+ <img src= "https://user-images.githubusercontent.com/108889662/193629523-4b3422ba-0773-4bb7-9198-543824376db3.PNG" width="340" height="720">
