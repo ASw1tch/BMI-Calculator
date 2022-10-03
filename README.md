@@ -1,5 +1,4 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  BMI Calculator
 
@@ -12,4 +11,3 @@
 * Formatting Strings. 
 * Color literals.
 
-![End Banner](Documentation/readme-end-banner.png)
